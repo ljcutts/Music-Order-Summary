@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://ljcutts.github.io/Music-Order-Summary/
 
 ## My process
 I first setup the body and main elements of my html structure and then edit them with css. This is so that I can create a container in the middle of the app. I then proceeded to add the background image to the background of the app. Next, I made container of the order summary that will contain everything, such as adding the border-radius and the box-shadow of it. Then, I realized that using flexbox would make the process of making everything in the inside of the container much easier. I made sure the whole container had flex-direction column and just went from there. At the end, I made sure to implement the active states of the app.
