@@ -54,13 +54,13 @@ I want to continue to perfect flexbox and also understand grid(which I didn't ha
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - This is like a dictionary for web development.
-- [Example resource 2](https://www.flexboxfroggy.com) - This is a game that you can play to help you understand how flexbox works.
+- (https://www.w3schools.com) - This is like a dictionary for web development.
+- (https://www.flexboxfroggy.com) - This is a game that you can play to help you understand how flexbox works.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ljcutts)
+- Frontend Mentor - [@ljcutts](https://www.frontendmentor.io/profile/ljcutts)
 
 
 ## Acknowledgments
